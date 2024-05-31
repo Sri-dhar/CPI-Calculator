@@ -28,7 +28,7 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 1. Open Command Prompt.
 2. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Sri-dhar/CPI-Calculator.git
     ```
 3. Navigate to the project directory:
     ```sh
@@ -44,7 +44,7 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 1. Open Terminal.
 2. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Sri-dhar/CPI-Calculator.git
     ```
 3. Navigate to the project directory:
     ```sh
@@ -60,7 +60,7 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 1. Open Terminal.
 2. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Sri-dhar/CPI-Calculator.git
     ```
 3. Navigate to the project directory:
     ```sh

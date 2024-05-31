@@ -74,7 +74,8 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 ## Usage
 
 1. After running the project, a window will appear with the GUI.
-2. Use the menu to change the scale, show/hide the action bar, reset inputs, or quit the application.
+2. Enter the required data to calculate your Grade.
+3. Use the menu to change the scale, show/hide the action bar, reset inputs, or quit the application.
 
 ## Contributing
 

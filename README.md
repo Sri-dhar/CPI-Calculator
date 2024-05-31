@@ -81,6 +81,3 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-## License
-
-This project is licensed under the MIT License.

@@ -1,6 +1,6 @@
-# Grade Management System
+# Grade Calculator
 
-This project is a Grade Management System built using Rust. It provides a graphical user interface (GUI) to manage and calculate grades, including functionalities like changing the scale, showing/hiding an action bar, and resetting input fields.
+This project is a Grade Calculator built using Rust. It provides a graphical user interface (GUI) to manage and calculate grades, including functionalities like changing the scale, showing/hiding an action bar, and resetting input fields.
 
 ## Features
 

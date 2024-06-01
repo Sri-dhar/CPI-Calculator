@@ -45,7 +45,7 @@ Build it Yourself
     ```sh
     cargo run
     ```
-#### For macOS
+#### FOR MAC OS
 
 1. Open Terminal.
 2. Clone the repository:
@@ -61,7 +61,7 @@ Build it Yourself
     cargo run
     ```
 
-#### For Linux
+#### FOR LINUX
 - Download from the [Release Section](https://github.com/Sri-dhar/CPI-Calculator/releases/tag/window_beta)
 - Extract the zip and Run the exectuable
 

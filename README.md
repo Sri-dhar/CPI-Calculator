@@ -23,22 +23,23 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 
 ### Installation Steps
 
-#### For Windows
+#### FOR WINDOWS
 
-1. Open Command Prompt.
-2. Clone the repository:
+1. Download and install the [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/).
+2. If you don't have the MinGW64 toolchain installed, download and install it from [GNU ToolChains MinGW64](https://gnutoolchains.com/mingw64/).
+3. Open Command Prompt.
+4. Clone the repository:
     ```sh
     git clone https://github.com/Sri-dhar/CPI-Calculator.git
     ```
-3. Navigate to the project directory:
+5. Navigate to the project directory:
     ```sh
     cd CPI-Calculator
     ```
-4. Build and run the project:
+6. Build and run the project:
     ```sh
     cargo run
     ```
-
 #### For macOS
 
 1. Open Terminal.

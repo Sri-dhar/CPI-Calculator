@@ -24,6 +24,11 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 ### Installation Steps
 
 #### FOR WINDOWS
+Download from the [Release Section](https://github.com/Sri-dhar/CPI-Calculator/releases/tag/window_beta)
+Extract the zip and Run the exectuable
+
+OR
+Build it Yourself
 
 1. Download and install the [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/).
 2. If you don't have the MinGW64 toolchain installed, download and install the latest version from [GNU ToolChains MinGW64](https://gnutoolchains.com/mingw64/).

@@ -23,7 +23,7 @@ lazy_static::lazy_static! {
 fn main() -> Result<(), eframe::Error> {
 
     let options = eframe::NativeOptions {
-        viewport: egui::ViewportBuilder::default().with_inner_size([900.0, 1200.0]),
+        viewport: egui::ViewportBuilder::default().with_inner_size([800.0, 1000.0]),
         ..Default::default()
     };
     eframe::run_native(
@@ -500,6 +500,8 @@ impl eframe::App for MyApp {
                             self.grades = Vec::new();
                             self.grade_input = "0".to_string();
                         },
+                        egui::widgets::global_dark_light_mode_buttons(ui),
+
                         if ui.button("Quit").clicked() {
                             std::process::exit(0);
                         },

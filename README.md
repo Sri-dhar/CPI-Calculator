@@ -24,10 +24,10 @@ This project is a CPI Calculator built using Rust. It provides a graphical user 
 ### Installation Steps
 
 #### FOR WINDOWS
-Download from the [Release Section](https://github.com/Sri-dhar/CPI-Calculator/releases/tag/window_beta)
-Extract the zip and Run the exectuable
+- Download from the [Release Section](https://github.com/Sri-dhar/CPI-Calculator/releases/tag/window_beta)
+- Extract the zip and Run the exectuable
 
-OR
+ Or
 Build it Yourself
 
 1. Download and install the [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/).
